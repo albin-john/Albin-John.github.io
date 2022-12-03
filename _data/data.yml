@@ -7,23 +7,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Albin John
+    tagline: Senior Odoo Python Developer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
+    email: albinjohn54@gmail.com
+    phone: +919633925148
+    timezone: India (GMT+5:30)
+    citizenship: Indian
+    website: albin-john.github.io #do not add http://
+    linkedin: albin-john
+    xing: 
+    github: albin-john
+    telegram: albin_john # add your nickname without '@' sign
+    gitlab: albin_john
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@albin_john'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,14 +32,12 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Malayalam
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
@@ -65,9 +63,10 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Master of Computer Applications (MCA)
+        university: University Of Calicut
+        college: National Institute of Electronic and Information Technology (NIELIT) - Calicut
+        time: 2012 - 2015
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +75,10 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc Computer Science
+        university: Kannur University
+        college: E.M.S Memorial College of Applied Science, Iritty
+        time: 2009 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
