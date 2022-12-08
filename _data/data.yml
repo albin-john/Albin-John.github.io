@@ -132,29 +132,43 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some of the interesting projects that I have worked 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: IESP EnSO Shop
+        link: "https://iesp.cloudengine.nokia.com/"
+        tagline: "Lead, opportunity, quotation, resource and order management through Odoo 14 CE"
+        client: "Nokia"
+        technologies: "Odoo 14 CE"
+        domain: "Enterprise Business Solution"
+        role: "Senior Odoo Python Developer"
+        responsibilities: "Developing new features as per the requirement, giving architectural support for management, fixing existing issues, and technical support to developers who are not familiar with Odoo."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: House Of Tours
+        link: "https://www.houseoftours.com/"
+        tagline: "Online Holiday Packages, Flight, Hotel, Transfer, Visa, and Activity booking."
+        client: "HTIC Global"
+        technologies: "Odoo 11 and Odoo 14"
+        domain: "Travel and Tourism"
+        role: "Senior Odoo Python Developer"
+        responsibilities: "Create an entirely new system from Odoo 11 version to Odoo 14 version and support development for the existing Odoo 11 version. Deploy projects on development/staging/production servers"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: i-lunch ERP
+        link: "https://cantine.fraichecancan.com/"
+        tagline: "Provider of a corporate catering delivery platform for balanced meals. The company provides meals prepared by a chef and approved by a nutritionist enabling individuals to monitor their nutritional intake with each recipe. By using Odoo 13 EE manage all sale, CRM, investors and POS Activities"
+        client: "Fraîche Cancan(i-lunch)"
+        technologies: "Odoo 13 EE"
+        domain: "Corporate catering services"
+        role: "Freelance Lead Odoo Developer"
+        responsibilities: "Developing new features and customization of existing features"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Ace Finepack ERP
+        link: "https://www.acefinepack.in/"
+        tagline: "Managing B2B and B2C business using lead, quotation, sale, purchase, HR, Payroll, attendance, and account."
+        client: "Ace Finepack"
+        technologies: "Odoo 10"
+        domain: "Packaging Solutions"
+        role: "Senior Odoo Developer"
+        responsibilities: "Developing new features and customization of existing features"
 
 oss:
     title: OSS Contributions
@@ -163,39 +177,35 @@ oss:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Odoo
+        link: "https://github.com/odoo/odoo/pull/78108"
+        tagline: "[Fix] AttributeError: 'NoneType' object has no attribute 'envs' when create new database"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Odoo app store
+        link: "https://apps.odoo.com/apps/browse?repo_maintainer_id=135771"
+        tagline: "Odoo application published on Odoo app store"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
