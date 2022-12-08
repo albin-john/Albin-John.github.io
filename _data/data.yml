@@ -42,10 +42,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Trucking
           link:
 
-        - item: Snowboarding
+        - item: Football
           link:
 
         - item: Cooking
@@ -54,12 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced Odoo developer with over 7 years of experience in Python development and a strong understanding of the Odoo framework. Strong understanding of the Odoo framework and its components, including the ORM and web framework. Skilled in custom module development and integrating third-party applications with Odoo. Familiarity with web technologies, such as HTML, CSS, and JavaScript. Experience with version control systems, such as Git, and project management tools. Ability to work independently and as part of a team. Strong problem-solving abilities and excellent communication skills. Proven track record of contributing to successful software project.
 education:
     title: Education
     info:
@@ -90,43 +85,50 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Odoo Developer
+        time: September 2022 - Present
+        company: ICT Direct, Mumbai
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Working as senior odoo developer for Puro Earth(https://puro.earth/)
+            - Odoo 15 Customisation
+            - Developing marketplace portal
       - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+        time: May 2022 - September 2022
+        company: Future Focus Infotech, Bengaluru
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Worked as senior developer for the “IESP EnSO Shop” project in Nokia.
+            - Odoo 14 Customisation
+            - Helping other python developers on odoo development
+            - Fixing existing bugs, and creating new features for resource management and order managnment
+      - role: Senior Odoo Developer
+        time: May 2021 - April 2022
+        company: HTIC Global, Kochi
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Worked as senior developer for the “House Of Tours” project. And development support for other subsidiaries such as Golden Falcon Aviation and Cross Roads Insurance.
+            - Create an entirely new system from Odoo 11 version to Odoo 14 version
+            - Support development for the existing Odoo 11 version
+      - role: Freelance Odoo Developer
+        time: April 2020 - May 2021
+        company: Freelance
+        details: |
+          Worked as a lead odoo developer for i-lunch(ilunch.fr) under Fab IT Solutions and did odoo customizations for 
+            - Noya Wealth Consulting(noyawealth.co.uk)
+            - Bluecard (bluecardapparel.com)
+            - Almarjan(almarjantrade.com)
+            - JumpTo(https://jumpto.ch)
+            - Zealous Systems Pvt. Ltd(https://www.zealoussystems.com)
+      - role: Senior Odoo Developer
+        time: April 2018 - April 2020
+        company: VID Techno Solutions, Kochi
+        details: |
+          Pay attention to details to fully understand the technical requirements. Development of new odoo modules. Make changes and updates to Odoo modules. Build and customize reports. Integrate with other systems using Web APIs (Web services). Identify and fix issues related to Odoo development. Use git for source control. Deploy projects on development/staging/production servers (AWS). Train new developers on how to perform tasks correctly.
+            - Odoo 8,10,11,12 Customisation
+      - role: Odoo Developer
+        time: Jun 2015 - April 2018
+        company: LIGS Informatics Pvt Ltd, Kozhikode
+        details: |
+          Develop new features and apps that users care about. Under the guidance of the Senior Odoo Python Developers, analyze challenges and estimate, customer requirements gathered by business analysts. Development of new odoo modules. Making changes and updates to Odoo modules. Define features scope, bring real value to the product.
+            - OpenERP 7 and Odoo 8,9,10,11 Customisation
 projects:
     title: Projects
     intro: >
@@ -199,23 +201,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python & Odoo
+        level: 90%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 50%
 
-      - name: Angular
-        level: 98%
+      - name: Git
+        level: 75%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: PostgreSQL
+        level: 75%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: XML & Qweb
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
