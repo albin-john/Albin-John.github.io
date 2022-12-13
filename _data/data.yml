@@ -173,6 +173,7 @@ projects:
 oss:
     title: OSS Contributions
     intro: >
+      Open source software contributions
     contributions:
       - title: Odoo
         link: "https://github.com/odoo/odoo/pull/78108"
