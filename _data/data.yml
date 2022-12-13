@@ -173,9 +173,6 @@ projects:
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
       - title: Odoo
         link: "https://github.com/odoo/odoo/pull/78108"
