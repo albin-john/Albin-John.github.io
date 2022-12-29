@@ -54,7 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Odoo developer with over 7 years of experience in Python development and a strong understanding of the Odoo framework. Strong understanding of the Odoo framework and its components, including the ORM and web framework. Skilled in custom module development and integrating third-party applications with Odoo. Familiarity with web technologies, such as HTML, CSS, and JavaScript. Experience with version control systems, such as Git, and project management tools. Ability to work independently and as part of a team. Strong problem-solving abilities and excellent communication skills. Proven track record of contributing to successful software project.
+      Experienced Odoo developer with over 7 years of experience in Python development and a strong understanding of the Odoo framework and its components, including the ORM and web framework. Skilled in custom module development and integrating third-party applications with Odoo. Familiarity with web technologies, such as HTML, CSS, and JavaScript. Experience with version control systems, such as Git, and project management tools. Ability to work independently and as part of a team. Strong problem-solving abilities and excellent communication skills. Proven track record of contributing to successful software project.
 education:
     title: Education
     info:
@@ -72,7 +72,7 @@ education:
             - Bullet point
       - degree: BSc Computer Science
         university: Kannur University
-        college: E.M.S Memorial College of Applied Science, Iritty
+        college: E.M.S Memorial College of Applied Science - Iritty
         time: 2009 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
