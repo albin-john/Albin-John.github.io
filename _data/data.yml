@@ -42,15 +42,14 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Trucking
-          link:
-
         - item: Football
           link:
 
-        - item: Cooking
+        - item: Listening to music
           link:
 
+        - item: Trucking
+          link:
 career-profile:
     title: Career Profile
     summary: |
