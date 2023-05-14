@@ -84,8 +84,31 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Odoo Technical Lead
+        time: May 2023 - Present
+        company: Zealous Systems Private Limited, Thimphu, Bhutan
+        details: |
+          Odoo Developments along with the 
+            - requirement analysis
+            - time estimation
+            - code review
+            - testing
+            - performance tuning
+            - system stability
+            - security
+            - on-time deliverables
+
+          Work closely with Project Managers in the 
+            - design of solutions and enhancement
+            - understanding of Business Processes
+            - System architecture
+            - Application Design 
+            - Business Requirements Analysis
+
+          Closely work with Odoo developers to ensure the 
+            - technical solution & its architecture are fit for purpose
       - role: Senior Odoo Developer
-        time: September 2022 - Present
+        time: September 2022 - April 2023
         company: ICT Direct, Mumbai
         details: |
           Working as senior odoo developer for Puro Earth(https://puro.earth/)
