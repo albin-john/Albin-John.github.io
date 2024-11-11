@@ -53,7 +53,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Odoo developer with over 7 years of experience in Python development and a strong understanding of the Odoo framework and its components, including the ORM and web framework. Skilled in custom module development and integrating third-party applications with Odoo. Familiarity with web technologies, such as HTML, CSS, and JavaScript. Experience with version control systems, such as Git, and project management tools. Ability to work independently and as part of a team. Strong problem-solving abilities and excellent communication skills. Proven track record of contributing to successful software project.
+      Experienced Odoo Technical Lead with over 9 years in Odoo ERP development and Python programming. I specialize in designing, customizing, and deploying reliable Odoo solutions across industries. With a strong understanding of Odoo’s ORM and web frameworks, I create end-to-end ERP solutions to improve business efficiency. I have expertise in integrating third-party applications, optimizing performance, and managing ERP projects from start to finish. Known for a problem-solving approach, effective teamwork, and a commitment to delivering high-quality results that meet client goals.
 education:
     title: Education
     info:
@@ -88,52 +88,38 @@ experiences:
         time: May 2023 - Present
         company: Zealous Systems Private Limited, Thimphu, Bhutan
         details: |
-          Odoo Developments along with the 
-            - requirement analysis
-            - time estimation
-            - code review
-            - testing
-            - performance tuning
-            - system stability
-            - security
-            - on-time deliverables
-
-          Work closely with Project Managers in the 
-            - design of solutions and enhancement
-            - understanding of Business Processes
-            - System architecture
-            - Application Design 
-            - Business Requirements Analysis
-
-          Closely work with Odoo developers to ensure the 
-            - technical solution & its architecture are fit for purpose
+          Leading Odoo development projects to deliver tailored ERP solutions that align with business requirements and client goals. My responsibilities include:
+            - Conducting requirement analysis, accurate time estimation, and thorough code reviews.
+            - Leading system testing, performance optimization, and ensuring secure, stable implementations.
+            - Collaborating with project managers on solution design, understanding client needs, and developing enhancements.
+            - Overseeing a team of developers, ensuring all technical solutions are robust and aligned with architecture standards.
+            - Delivering high-quality, on-time ERP solutions that improve operational efficiency and scalability.
       - role: Senior Odoo Developer
         time: September 2022 - April 2023
         company: ICT Direct, Mumbai
         details: |
-          Working as senior odoo developer for Puro Earth(https://puro.earth/)
-            - Odoo 15 Customisation
-            - Developing marketplace portal
+          Played a key role in Odoo 15 EE customizations for Puro Earth, an environmental marketplace platform, enhancing capabilities across CRM, sales, and finance modules.
+            - Designed and implemented a marketplace portal, integrating various functionalities to streamline business workflows.
+            - Led customizations for seamless integration, improving overall platform efficiency and client satisfaction.
       - role: Senior Software Engineer
         time: May 2022 - September 2022
         company: Future Focus Infotech, Bengaluru
         details: |
-          Worked as senior developer for the “IESP EnSO Shop” project in Nokia.
-            - Odoo 14 Customisation
-            - Helping other python developers on odoo development
-            - Fixing existing bugs, and creating new features for resource management and order managnment
+          Worked on Nokia’s "IESP EnSO Shop" project, focusing on custom Odoo 14 CE development for enhanced order and resource management.
+            - Developed and implemented new features tailored to the needs of the enterprise, improving user experience and functionality.
+            - Provided technical mentorship, ensuring the development team adhered to best practices and high coding standards.
       - role: Senior Odoo Developer
         time: May 2021 - April 2022
         company: HTIC Global, Kochi
         details: |
-          Worked as senior developer for the “House Of Tours” project. And development support for other subsidiaries such as Golden Falcon Aviation and Cross Roads Insurance.
-            - Create an entirely new system from Odoo 11 version to Odoo 14 version
-            - Support development for the existing Odoo 11 version
+          Led a major upgrade for "House of Tours," transitioning the system from Odoo 11 to Odoo 14, specifically for the travel and tourism industry.
+            - Developed and enhanced modules for booking, packages, and customer management, resulting in a streamlined booking process.
+            - Ensured seamless integration across multiple systems and provided support for both new and legacy versions.
       - role: Freelance Odoo Developer
         time: April 2020 - May 2021
         company: Freelance
         details: |
-          Worked as a lead odoo developer for i-lunch(ilunch.fr) under Fab IT Solutions and did odoo customizations for 
+          Delivered customized Odoo solutions for clients across various sectors, including corporate catering, wealth consulting, and retail. Notably led development for i-lunch, creating a user-friendly platform with meal tracking and CRM functionalities in Odoo 13 EE. Provided complete ERP setup and customization for other clients, optimizing their business operations with tailored solutions. 
             - Noya Wealth Consulting (noyawealth.co.uk)
             - Bluecard (bluecardapparel.com)
             - Almarjan (almarjantrade.com)
@@ -144,14 +130,15 @@ experiences:
         time: April 2018 - April 2020
         company: VID Techno Solutions, Kochi
         details: |
-          Pay attention to details to fully understand the technical requirements. Development of new odoo modules. Make changes and updates to Odoo modules. Build and customize reports. Integrate with other systems using Web APIs (Web services). Identify and fix issues related to Odoo development. Use git for source control. Deploy projects on development/staging/production servers (AWS). Train new developers on how to perform tasks correctly.
-            - Odoo 8,10,11,12 Customisation
+          Developed and customized Odoo modules for B2B and B2C clients, focusing on lead management, sales, and inventory control.
+            - Integrated ERP solutions with other systems, optimized reporting, and trained junior developers on best practices.
+            - Ensured reliable deployment on AWS and used Git for version control to maintain a clean development cycle.
       - role: Odoo Developer
         time: Jun 2015 - April 2018
         company: LIGS Informatics Pvt Ltd, Kozhikode
         details: |
-          Develop new features and apps that users care about. Under the guidance of the Senior Odoo Python Developers, analyze challenges and estimate, customer requirements gathered by business analysts. Development of new odoo modules. Making changes and updates to Odoo modules. Define features scope, bring real value to the product.
-            - OpenERP 7 and Odoo 8,9,10,11 Customisation
+          Built and customized modules across Odoo versions 7 to 11, focusing on features that enhanced customer satisfaction and business efficiency.
+            - Developed solutions that met business-specific needs, providing value to clients across diverse industries.
 projects:
     title: Projects
     intro: >
@@ -164,7 +151,7 @@ projects:
         technologies: "Odoo 14 CE"
         domain: "Enterprise Business Solution"
         role: "Senior Odoo Python Developer"
-        responsibilities: "Developing new features as per the requirement, giving architectural support for management, fixing existing issues, and technical support to developers who are not familiar with Odoo."
+        responsibilities: "Developed new resource management features, provided technical guidance to developers, resolved existing issues, and contributed to the architectural framework for a scalable enterprise solution."
 
       - title: House Of Tours
         link: "https://www.houseoftours.com/"
@@ -173,7 +160,7 @@ projects:
         technologies: "Odoo 11 and Odoo 14"
         domain: "Travel and Tourism"
         role: "Senior Odoo Python Developer"
-        responsibilities: "Create an entirely new system from Odoo 11 version to Odoo 14 version and support development for the existing Odoo 11 version. Deploy projects on development/staging/production servers"
+        responsibilities: "Led the migration from Odoo 11 to Odoo 14, built custom modules for booking, and integrated sales and customer service tools, enhancing the user experience and system reliability."
 
       - title: i-lunch ERP
         link: "https://cantine.fraichecancan.com/"
@@ -182,7 +169,7 @@ projects:
         technologies: "Odoo 13 EE"
         domain: "Corporate catering services"
         role: "Freelance Lead Odoo Developer"
-        responsibilities: "Developing new features and customization of existing features"
+        responsibilities: "Customized ERP modules to support meal tracking, integrated CRM functionalities, and ensured a seamless ordering experience, which increased customer satisfaction and operational efficiency."
 
       - title: Ace Finepack ERP
         link: "https://www.acefinepack.in/"
@@ -191,7 +178,7 @@ projects:
         technologies: "Odoo 10"
         domain: "Packaging Solutions"
         role: "Senior Odoo Developer"
-        responsibilities: "Developing new features and customization of existing features"
+        responsibilities: "Developed features for lead, sales, purchase, and inventory management, and provided continuous support to optimize client operations and reporting capabilities."
 
 oss:
     title: OSS Contributions
