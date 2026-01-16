@@ -282,7 +282,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll
   webrick (~> 1.8)
 
 BUNDLED WITH
