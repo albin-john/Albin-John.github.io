@@ -1,0 +1,20 @@
+# --- Jekyll build output ---
+_site/
+
+# --- Ruby / Bundler ---
+.bundle/
+vendor/
+Gemfile.lock
+.ruby-version
+
+# --- Caches ---
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# --- OS / Editor ---
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
