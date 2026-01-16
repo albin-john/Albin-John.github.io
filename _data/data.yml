@@ -3,240 +3,241 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: true
+  education: true
 
-    # Profile information
-    name: Albin John
-    tagline: Odoo Technical Lead
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: "Albin John"
+  tagline: "Odoo Technical Lead"
+  avatar: "profile.jpg"
 
-    # Sidebar links
-    email: albinjohn54@gmail.com
-    phone: +919633925148
-    timezone: India (GMT+5:30)
-    citizenship: Indian
-    website: albin-john.github.io #do not add http://
-    linkedin: albin-john
-    xing: 
-    github: albin-john
-    telegram: albin_john # add your nickname without '@' sign
-    gitlab: albin_john
-    bitbucket:
-    twitter: '@albin_john'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: /print
+  # Sidebar links
+  email: "albinjohn54@gmail.com"
+  phone: "+919633925148"
+  timezone: "India (GMT+5:30)"
+  citizenship: "Indian"
+  website: "albin-john.github.io"
+  linkedin: "albin-john"
+  github: "albin-john"
+  telegram: "albin_john"
+  gitlab: "albin_john"
+  twitter: "albin_john"
+  pdf: "/print"
 
-    languages:
-      title: Languages
-      info:
-        - idiom: Malayalam
-          level: Native
+  languages:
+    title: "Languages"
+    info:
+      - idiom: "Malayalam"
+        level: "Native"
+      - idiom: "English"
+        level: "Professional"
 
-        - idiom: English
-          level: Professional
+  interests:
+    title: "Interests"
+    info:
+      - item: "Football"
+        link: ""
+      - item: "Listening to music"
+        link: ""
+      - item: "Trucking"
+        link: ""
 
-
-    interests:
-      title: Interests
-      info:
-        - item: Football
-          link:
-
-        - item: Listening to music
-          link:
-
-        - item: Trucking
-          link:
 career-profile:
-    title: Career Profile
-    summary: |
-      Experienced Odoo Technical Lead with over 9 years in Odoo ERP development and Python programming. I specialize in designing, customizing, and deploying reliable Odoo solutions across industries. With a strong understanding of Odoo’s ORM and web frameworks, I create end-to-end ERP solutions to improve business efficiency. I have expertise in integrating third-party applications, optimizing performance, and managing ERP projects from start to finish. Known for a problem-solving approach, effective teamwork, and a commitment to delivering high-quality results that meet client goals.
+  title: "Career Profile"
+  start_year: 2015
+  summary: |
+    Odoo ERP Consultant and Technical Lead with {{ years_experience }}+ years of experience delivering end-to-end ERP solutions using Python and the Odoo ecosystem. Proven expertise across Odoo versions v7 through v19, including solution design, custom module development, and production-grade implementations.
+
+    Strong capability in Odoo ORM, business workflows, and web framework development, with hands-on experience in third-party integrations, performance optimization, and system stability. Proficient in Python, PostgreSQL, JavaScript, Git-based workflows, and Linux administration.
+
+    Led and delivered solutions such as EKOR (travel management application) and HRstation (HR platform for a large conglomerate), and supported complex ERP operations including Fraîche Cancan ERP (formerly i-lunch). Focused on practical problem-solving, stakeholder alignment, and building scalable solutions that improve business efficiency.
+
 education:
-    title: Education
-    info:
-      - degree: Master of Computer Applications (MCA)
-        university: University Of Calicut
-        college: National Institute of Electronic and Information Technology (NIELIT) - Calicut
-        time: 2012 - 2015
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc Computer Science
-        university: Kannur University
-        college: E.M.S Memorial College of Applied Science - Iritty
-        time: 2009 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+  title: "Education"
+  info:
+    - degree: "Master of Computer Applications (MCA)"
+      university: "University Of Calicut"
+      college: "National Institute of Electronic and Information Technology (NIELIT) - Calicut"
+      time: "2012 - 2015"
+      details: |
+        (Optional) Add key coursework, thesis topic, or academic highlights.
+          - Bullet point
+          - Bullet point
+
+    - degree: "BSc Computer Science"
+      university: "Kannur University"
+      college: "E.M.S Memorial College of Applied Science - Iritty"
+      time: "2009 - 2012"
+      details: |
+        (Optional) Add academic highlights or relevant coursework.
+          - Bullet point
+          - Bullet point
+
 experiences:
-    title: Experiences
-    info:
-      - role: Odoo Technical Lead
-        time: May 2023 - Present
-        company: Zealous Systems Private Limited, Thimphu, Bhutan
-        details: |
-          Leading Odoo development projects to deliver tailored ERP solutions that align with business requirements and client goals. My responsibilities include:
-            - Conducting requirement analysis, accurate time estimation, and thorough code reviews.
-            - Leading system testing, performance optimization, and ensuring secure, stable implementations.
-            - Collaborating with project managers on solution design, understanding client needs, and developing enhancements.
-            - Overseeing a team of developers, ensuring all technical solutions are robust and aligned with architecture standards.
-            - Delivering high-quality, on-time ERP solutions that improve operational efficiency and scalability.
-      - role: Senior Odoo Developer
-        time: September 2022 - April 2023
-        company: ICT Direct, Mumbai
-        details: |
-          Played a key role in Odoo 15 EE customizations for Puro Earth, an environmental marketplace platform, enhancing capabilities across CRM, sales, and finance modules.
-            - Designed and implemented a marketplace portal, integrating various functionalities to streamline business workflows.
-            - Led customizations for seamless integration, improving overall platform efficiency and client satisfaction.
-      - role: Senior Software Engineer
-        time: May 2022 - September 2022
-        company: Future Focus Infotech, Bengaluru
-        details: |
-          Worked on Nokia’s "IESP EnSO Shop" project, focusing on custom Odoo 14 CE development for enhanced order and resource management.
-            - Developed and implemented new features tailored to the needs of the enterprise, improving user experience and functionality.
-            - Provided technical mentorship, ensuring the development team adhered to best practices and high coding standards.
-      - role: Senior Odoo Developer
-        time: May 2021 - April 2022
-        company: HTIC Global, Kochi
-        details: |
-          Led a major upgrade for "House of Tours," transitioning the system from Odoo 11 to Odoo 14, specifically for the travel and tourism industry.
-            - Developed and enhanced modules for booking, packages, and customer management, resulting in a streamlined booking process.
-            - Ensured seamless integration across multiple systems and provided support for both new and legacy versions.
-      - role: Freelance Odoo Developer
-        time: April 2020 - May 2021
-        company: Freelance
-        details: |
-          Delivered customized Odoo solutions for clients across various sectors, including corporate catering, wealth consulting, and retail. Notably led development for i-lunch, creating a user-friendly platform with meal tracking and CRM functionalities in Odoo 13 EE. Provided complete ERP setup and customization for other clients, optimizing their business operations with tailored solutions. 
-            - Noya Wealth Consulting (noyawealth.co.uk)
-            - Bluecard (bluecardapparel.com)
-            - Almarjan (almarjantrade.com)
-            - JumpTo (https://jumpto.ch)
-            - Zealous Systems Pvt. Ltd (https://www.zealoussystems.com)
-            - CM3 Engineering SRL (https://www.cm3engineering.com)
-      - role: Senior Odoo Developer
-        time: April 2018 - April 2020
-        company: VID Techno Solutions, Kochi
-        details: |
-          Developed and customized Odoo modules for B2B and B2C clients, focusing on lead management, sales, and inventory control.
-            - Integrated ERP solutions with other systems, optimized reporting, and trained junior developers on best practices.
-            - Ensured reliable deployment on AWS and used Git for version control to maintain a clean development cycle.
-      - role: Odoo Developer
-        time: Jun 2015 - April 2018
-        company: LIGS Informatics Pvt Ltd, Kozhikode
-        details: |
-          Built and customized modules across Odoo versions 7 to 11, focusing on features that enhanced customer satisfaction and business efficiency.
-            - Developed solutions that met business-specific needs, providing value to clients across diverse industries.
+  title: "Experiences"
+  info:
+    - role: "Odoo Technical Lead"
+      time: "May 2023 - Present"
+      company: "Zealous Systems Private Limited, Thimphu, Bhutan"
+      details: |
+        Lead Odoo development and delivery across multiple implementations, including:
+          - Requirement analysis and solution design
+          - Time estimation and delivery planning
+          - Code review, testing, and QA support
+          - performance tuning and system stability
+          - Security and deployment readiness
+          - On-time deliverables and stakeholder alignment
+
+        Work closely with Project Managers and business stakeholders on:
+          - Business process understanding and mapping
+          - Architecture and application design
+          - Enhancements and continuous improvement
+
+        Mentor and support developers to ensure:
+          - Solution architecture is fit for purpose
+          - Maintainable code standards and best practices
+
+    - role: "Senior Odoo Developer"
+      time: "September 2022 - April 2023"
+      company: "ICT Direct, Mumbai"
+      details: |
+        Senior Odoo developer for Puro Earth (https://puro.earth/)
+          - Odoo 15 customizations
+          - Marketplace portal development
+
+    - role: "Senior Software Engineer"
+      time: "May 2022 - September 2022"
+      company: "Future Focus Infotech, Bengaluru"
+      details: |
+        Senior developer for “IESP EnSO Shop” project at Nokia
+          - Odoo 14 customizations
+          - Technical support for Python developers new to Odoo
+          - Bug fixing and feature development for resource and order management
+
+    - role: "Senior Odoo Developer"
+      time: "May 2021 - April 2022"
+      company: "HTIC Global, Kochi"
+      details: |
+        Senior developer for “House Of Tours” and support for other subsidiaries
+          - Migration and rebuild from Odoo 11 to Odoo 14
+          - Continued development support for legacy Odoo 11 system
+
+    - role: "Freelance Odoo Developer"
+      time: "April 2020 - May 2021"
+      company: "Freelance"
+      details: |
+        Lead Odoo developer for i-lunch (ilunch.fr) under Fab IT Solutions and customizations for:
+          - Noya Wealth Consulting (noyawealth.co.uk)
+          - Bluecard (bluecardapparel.com)
+          - Almarjan (almarjantrade.com)
+          - JumpTo (https://jumpto.ch)
+          - Zealous Systems Pvt. Ltd (https://www.zealoussystems.com)
+          - CM3 Engineering SRL (https://www.cm3engineering.com)
+
+    - role: "Senior Odoo Developer"
+      time: "April 2018 - April 2020"
+      company: "VID Techno Solutions, Kochi"
+      details: |
+        Delivered custom Odoo modules and integrations, including:
+          - New module development and enhancements
+          - Report development (QWeb)
+          - API integrations (web services)
+          - Issue diagnosis and bug fixing
+          - Git-based source control and deployments (AWS)
+          - Mentoring and training junior developers
+          - Odoo 8/10/11/12 customizations
+
+    - role: "Odoo Developer"
+      time: "Jun 2015 - April 2018"
+      company: "LIGS Informatics Pvt Ltd, Kozhikode"
+      details: |
+        Developed Odoo features and custom modules under senior guidance, including:
+          - Requirements analysis and effort estimation support
+          - New module development and enhancements
+          - Delivering business value through scoped features
+          - OpenERP 7 and Odoo 8/9/10/11 customizations
+
 projects:
-    title: Projects
-    intro: >
-      Some of the interesting projects that I have worked 
-    assignments:
-      - title: IESP EnSO Shop
-        link: "https://iesp.cloudengine.nokia.com/"
-        tagline: "Lead, opportunity, quotation, resource and order management through Odoo 14 CE"
-        client: "Nokia"
-        technologies: "Odoo 14 CE"
-        domain: "Enterprise Business Solution"
-        role: "Senior Odoo Python Developer"
-        responsibilities: "Developed new resource management features, provided technical guidance to developers, resolved existing issues, and contributed to the architectural framework for a scalable enterprise solution."
+  title: "Projects"
+  intro: >
+    Some of the interesting projects that I have worked on
+  assignments:
+    - title: "IESP EnSO Shop"
+      link: "https://iesp.cloudengine.nokia.com/"
+      tagline: "Lead, opportunity, quotation, resource and order management through Odoo 14 CE"
+      client: "Nokia"
+      technologies: "Odoo 14 CE"
+      domain: "Enterprise Business Solution"
+      role: "Senior Odoo Python Developer"
+      responsibilities: "Developing new features as per requirements, providing architectural guidance, fixing existing issues, and supporting developers unfamiliar with Odoo."
 
-      - title: House Of Tours
-        link: "https://www.houseoftours.com/"
-        tagline: "Online Holiday Packages, Flight, Hotel, Transfer, Visa, and Activity booking."
-        client: "HTIC Global"
-        technologies: "Odoo 11 and Odoo 14"
-        domain: "Travel and Tourism"
-        role: "Senior Odoo Python Developer"
-        responsibilities: "Led the migration from Odoo 11 to Odoo 14, built custom modules for booking, and integrated sales and customer service tools, enhancing the user experience and system reliability."
+    - title: "House Of Tours"
+      link: "https://www.houseoftours.com/"
+      tagline: "Online holiday packages, flights, hotels, transfers, visa, and activity booking."
+      client: "HTIC Global"
+      technologies: "Odoo 11 and Odoo 14"
+      domain: "Travel and Tourism"
+      role: "Senior Odoo Python Developer"
+      responsibilities: "Migration from Odoo 11 to Odoo 14, ongoing enhancements, and deployment support for development/staging/production."
 
-      - title: i-lunch ERP
-        link: "https://cantine.fraichecancan.com/"
-        tagline: "Provider of a corporate catering delivery platform for balanced meals. The company provides meals prepared by a chef and approved by a nutritionist enabling individuals to monitor their nutritional intake with each recipe. By using Odoo 13 EE manage all sale, CRM, investors and POS Activities"
-        client: "Fraîche Cancan(i-lunch)"
-        technologies: "Odoo 13 EE"
-        domain: "Corporate catering services"
-        role: "Freelance Lead Odoo Developer"
-        responsibilities: "Customized ERP modules to support meal tracking, integrated CRM functionalities, and ensured a seamless ordering experience, which increased customer satisfaction and operational efficiency."
+    - title: "i-lunch ERP (Fraîche Cancan)"
+      link: "https://cantine.fraichecancan.com/"
+      tagline: "Corporate catering delivery platform using Odoo 13 EE for Sales, CRM, POS, and operations."
+      client: "Fraîche Cancan (i-lunch)"
+      technologies: "Odoo 13 EE"
+      domain: "Corporate catering services"
+      role: "Freelance Lead Odoo Developer"
+      responsibilities: "Custom feature development, integrations, and operational support for business workflows."
 
-      - title: Ace Finepack ERP
-        link: "https://www.acefinepack.in/"
-        tagline: "Managing B2B and B2C business using lead, quotation, sale, purchase, HR, Payroll, attendance, and account."
-        client: "Ace Finepack"
-        technologies: "Odoo 10"
-        domain: "Packaging Solutions"
-        role: "Senior Odoo Developer"
-        responsibilities: "Developed features for lead, sales, purchase, and inventory management, and provided continuous support to optimize client operations and reporting capabilities."
+    - title: "Ace Finepack ERP"
+      link: "https://www.acefinepack.in/"
+      tagline: "B2B and B2C operations using Sales, Purchase, HR, Payroll, Attendance, and Accounting."
+      client: "Ace Finepack"
+      technologies: "Odoo 10"
+      domain: "Packaging Solutions"
+      role: "Senior Odoo Developer"
+      responsibilities: "Feature development and customization of business workflows and reporting."
 
 oss:
-    title: OSS Contributions
-    intro: >
-      Open source software contributions
-    contributions:
-      - title: Odoo
-        link: "https://github.com/odoo/odoo/pull/78108"
-        tagline: "[Fix] AttributeError: 'NoneType' object has no attribute 'envs' when create new database"
+  title: "OSS Contributions"
+  intro: >
+    Open source software contributions
+  contributions:
+    - title: "Odoo"
+      link: "https://github.com/odoo/odoo/pull/78108"
+      tagline: "[Fix] AttributeError: 'NoneType' object has no attribute 'envs' when creating a new database"
 
-      - title: Odoo app store
-        link: "https://apps.odoo.com/apps/browse?repo_maintainer_id=135771"
-        tagline: "Odoo application published on Odoo app store"
-
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
-
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
+    - title: "Odoo App Store"
+      link: "https://apps.odoo.com/apps/browse?repo_maintainer_id=135771"
+      tagline: aware of publishing and maintaining Odoo applications on the Odoo App Store
 
 skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Odoo
-        level: 90%
-
-      - name: Javascript & jQuery
-        level: 50%
-
-      - name: Git
-        level: 75%
-
-      - name: HTML5 & CSS
-        level: 50%
-
-      - name: PostgreSQL
-        level: 75%
-
-      - name: XML & Qweb
-        level: 90%
+  title: "Skills & Proficiency"
+  toolset:
+    - name: "Python & Odoo (v7–v19)"
+      level: "98%"
+    - name: "PostgreSQL"
+      level: "75%"
+    - name: "JavaScript"
+      level: "50%"
+    - name: "Git (GitHub/GitLab)"
+      level: "75%"
+    - name: "Linux System Administration"
+      level: "70%"
+    - name: "HTML5 & CSS"
+      level: "50%"
+    - name: "XML & QWeb"
+      level: "98%"
+    - name: "Third-Party Integrations"
+      level: "75%"
+    - name: "Performance Optimization"
+      level: "75%"
+    - name: "Amazon ECS"
+      level: "40%"
+    - name: "SAP"
+      level: "40%"
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-    Source code <a href="https://github.com/albin-john/Albin-John.github.io" target="_blank" rel="nofollow">GitHub</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Source code <a href="https://github.com/albin-john/Albin-John.github.io" target="_blank" rel="nofollow">GitHub</a>
+

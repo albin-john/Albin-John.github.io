@@ -1,18 +1,21 @@
-{% assign career-profile = site.data.data.career-profile %}
-{% if career-profile %}
-<section class="section summary-section">
+{% assign cp = site.data.data["career-profile"] %}
 
+{%- assign start_year = cp.start_year | default: 2015 | plus: 0 -%}
+{%- assign current_year = site.time | date: "%Y" | plus: 0 -%}
+{%- assign years_experience = current_year | minus: start_year -%}
+
+<section class="section summary-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-user fa-stack-1x fa-inverse"></i>
     </span>
-    {{ career-profile.title }}
+    {{ cp.title }}
   </h2>
 
   <div class="summary">
-    {{ career-profile.summary | markdownify }}
-  </div><!--//summary-->
-    
-</section><!--//section-->
-{% endif %}
+    {%- assign rendered = cp.summary | replace: "{{ years_experience }}", years_experience -%}
+    {{ rendered | markdownify }}
+  </div>
+</section>
+
